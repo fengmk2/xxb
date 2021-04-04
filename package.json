@@ -31,7 +31,7 @@
         "cli-table": "https://github.com/katoy/cli-table/tarball/kanjiWidth",
         "npmlog": "0.0.6",
         "request": "~2.34.0",
-        "cheerio": "~0.13.1",
+        "cheerio": "~0.14.0",
         "iconv-lite": "~0.2.11"
     }
 }
